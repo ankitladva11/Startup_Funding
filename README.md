@@ -8,11 +8,11 @@ The data for this project was obtained from Crunchbase, a platform that tracks f
 ## Installation
 To run this project, you will need to have Python and the following libraries installed:
 
--pandas
--numpy
--matplotlib
--seaborn
-You can install them using pip:
+-pandas                                                      
+-numpy                                                           
+-matplotlib                                                  
+-seaborn                                                        
+You can install them using pip:                                 
 pip install pandas numpy matplotlib seaborn
 
 # Conclusion
